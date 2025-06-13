@@ -71,21 +71,30 @@ Execute o script principal para iniciar a transferência:
 python src/main.py
 
 ```
+---
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
-Facilitar a atualização do Calculo sem perda ou corrupção de dados;
+- Facilitar a atualização do Calculo sem perda ou corrupção de dados;
 
-Reduzir o tempo e esforço do usuário na migração manual;
+- Reduzir o tempo e esforço do usuário na migração manual;
 
-Garantir integridade e compatibilidade dos dados entre versões;
+- Garantir integridade e compatibilidade dos dados entre versões;
 
-Servir como estudo prático de automação e manipulação de bancos Firebird via Python.
+- Servir como estudo prático de automação e manipulação de bancos Firebird via Python.
 
-📄 Licença
-Projeto licenciado sob os termos da MIT License.
+---
 
-👨‍💼 Desenvolvido por
+## 📄 Licença
+
+- Projeto licenciado sob os termos da MIT License.
+
+---
+
+## 👨‍💼 Desenvolvido por
+
 Guilherme Xavier Hojak
 Tooling Equipamentos Ópticos
 LinkedIn
+
+---
