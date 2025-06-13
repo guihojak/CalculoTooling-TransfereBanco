@@ -38,15 +38,17 @@ Isso minimiza erros manuais, evita perda de dados e permite que o usuário atual
 ## 📁 Estrutura do Projeto
 
 src/ → Scripts Python para execução da migração
+
 scripts/ → Scripts SQL para atualização do banco
+
 docs/ → Documentação e imagens
+
 README.md → Documentação principal
+
 requirements.txt → Dependências Python
+
 config.ini → Configuração para conexão com banco
 
-yaml
-Copiar
-Editar
 
 ---
 
@@ -67,6 +69,8 @@ Configure o arquivo config.ini com os dados de conexão para as versões antiga 
 Execute o script principal para iniciar a transferência:
 
 python src/main.py
+
+```
 
 🎯 Objetivo do Projeto
 
